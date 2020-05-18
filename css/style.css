@@ -1,0 +1,55 @@
+*{    margin: 0px;
+    padding: 0px;
+   
+}
+.front-img{
+    height: 300px;
+}
+/* background-image: url('https://wallpaperaccess.com/full/1429591.jpg'); */
+.img-fluid{
+    height: 500px;
+}
+i{ 
+    color: red;
+}
+i:hover{
+color: #343A40;
+}
+.input input:hover{
+    color:red;
+}
+.input{
+    color:red;
+}
+.row-margin{
+    margin-top: 80px;
+}
+.box{
+    background: url("https://d2eohwa6gpdg50.cloudfront.net/content/uploads/2018/11/16173029/RF-SG001.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+background-attachment: fixed;
+background-size: cover;
+}
+.image{
+    width: 100%;
+    
+}
+.footer-img{
+    background:url("https://blog.healthandglow.com/wp-content/uploads/2016/10/festive-makeup-kit-for-women-1050x700.jpg");
+    height: 500px; 
+  background-repeat: no-repeat; 
+  background-size: cover;  
+}
+.img-about{
+    
+    width: 100% 
+    ;
+    background-size: cover;
+    
+}
+.bgimg{
+    height: auto !important;
+    width: 100% !important;
+}
