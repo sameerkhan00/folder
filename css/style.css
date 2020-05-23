@@ -72,3 +72,8 @@ background-size: cover;
 
     }
   }
+  @media screen and (max-width: 375px) {
+    .text >h1 { font-size: 18px;
+
+    }
+  }
