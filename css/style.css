@@ -68,12 +68,8 @@ background-size: cover;
     }
   }
   @media screen and (max-width: 375px) {
-    .font >h1 { font-size: 25px;
+    .font >h1 { font-size: 15px;
 
     }
   }
-  @media screen and (max-width: 375px) {
-    .text >h1 { font-size: 18px;
-
-    }
-  }
+  
