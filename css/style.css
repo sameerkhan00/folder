@@ -73,3 +73,27 @@ background-size: cover;
     }
   }
   
+  
+.form-control{
+   
+      border-color: khaki !important;
+}
+.nav-link:hover{
+    border-bottom: 2px solid #cc1a20 !important;
+}
+.control{
+    position: fixed;
+    top: 10px;
+}
+.font{
+    color:black  !important;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+}
+.image:hover{
+    border-bottom: 2px solid #cc1a20 !important;
+
+}
+.fonts-head{
+    
+}
