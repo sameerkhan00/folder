@@ -5,7 +5,7 @@
 .front-img{
     height: 300px;
 }
-/* background-image: url('https://wallpaperaccess.com/full/1429591.jpg'); */
+
 .img-fluid{
     height: 500px;
 }
@@ -27,20 +27,13 @@ color: #343A40;
 .box{
     background: url("https://d2eohwa6gpdg50.cloudfront.net/content/uploads/2018/11/16173029/RF-SG001.jpg");
     background-repeat: no-repeat;
-    width: 100%;
-    height: 600px;
+    height: auto !important;
 background-attachment: fixed;
-background-size: cover;
+
 }
 .image{
     width: 100%;
     
-}
-.footer-img{
-    background:url("https://blog.healthandglow.com/wp-content/uploads/2016/10/festive-makeup-kit-for-women-1050x700.jpg");
-    height: 500px; 
-  background-repeat: no-repeat; 
-  background-size: cover;  
 }
 .img-about{
     
@@ -94,6 +87,33 @@ background-size: cover;
     border-bottom: 2px solid #cc1a20 !important;
 
 }
-.fonts-head{
-    
+.btn-primary{
+width: 80px !important;
+margin-left: 10px;
+}
+.width{
+    height: 280px !important;
+}
+.fa-facebook{
+    color: white !important;
+    padding-right: 5px;
+}
+.fa-share{
+    font-size: 11px !important;
+    color: white !important;
+    padding-right: 3px;
+
+} 
+.bg{
+    background-image:url("https://www.radio92fm.com.br/wp-content/uploads/2016/05/destaque01.jpg");
+    background-repeat: no-repeat;
+     
+    height: auto !important;
+background-attachment: fixed;
+background-size: cover;
+}
+.para{
+    text-align: justify;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
 }
