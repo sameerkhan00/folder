@@ -29,6 +29,7 @@ color: #343A40;
     background-repeat: no-repeat;
     height: auto !important;
 background-attachment: fixed;
+background-size: cover;
 
 }
 .image{
@@ -98,12 +99,15 @@ margin-left: 10px;
     color: white !important;
    margin-right: 5px;
 }
-.fa-share{
-    font-size: 11px !important;
+.fa-share-alt{
+    /* font-size: 15px !important; */
     color: white !important;
-   margin-right: 2px;
+  padding-right: 5px;
 
 } 
+.btn-primary{
+    width: 100px !important;
+}
 .bg{
     background-image:url("https://www.radio92fm.com.br/wp-content/uploads/2016/05/destaque01.jpg");
     background-repeat: no-repeat;
